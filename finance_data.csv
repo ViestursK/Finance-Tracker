@@ -1,0 +1,132 @@
+date,amount,category,description
+27-07-2024,25,expense,Bought porkchop
+27-07-2024,25,expense,Bought porkchop
+27-07-2024,12.0,Income,banana
+28-07-2024,1.0,Income,salary
+29-07-2024,50.0,expense,Grocery shopping
+29-07-2024,100.0,expense,Electricity bill
+30-07-2024,200.0,Income,Freelance work
+30-07-2024,75.0,expense,Restaurant dinner
+31-07-2024,300.0,Income,Project bonus
+01-08-2024,30.0,expense,Internet bill
+01-08-2024,40.0,expense,Gas bill
+02-08-2024,20.0,Income,Selling old books
+02-08-2024,10.0,expense,Transport
+03-08-2024,500.0,Income,Stock dividends
+03-08-2024,60.0,expense,Concert ticket
+04-08-2024,25.0,expense,Coffee shop
+04-08-2024,100.0,Income,Gift from friend
+05-08-2024,75.0,expense,New shoes
+05-08-2024,90.0,expense,Clothing
+06-08-2024,50.0,Income,Side job
+06-08-2024,35.0,expense,Movie night
+07-08-2024,60.0,expense,Pet food
+07-08-2024,150.0,Income,Part-time job
+08-08-2024,25.0,expense,Books
+08-08-2024,20.0,expense,Stationery
+09-08-2024,70.0,Income,Tutoring
+09-08-2024,80.0,expense,Home supplies
+10-08-2024,15.0,expense,Gym fee
+10-08-2024,55.0,Income,Freelance graphic design
+11-08-2024,30.0,expense,Fast food
+11-08-2024,60.0,Income,Selling crafts
+12-08-2024,10.0,expense,Coffee
+12-08-2024,40.0,expense,House cleaning
+13-08-2024,90.0,Income,Consulting fee
+13-08-2024,20.0,expense,Snacks
+14-08-2024,25.0,expense,Bought porkchop
+14-08-2024,35.0,Income,Freelance writing
+15-08-2024,10.0,expense,Ice cream
+15-08-2024,75.0,Income,Part-time work
+16-08-2024,50.0,expense,Subscription service
+16-08-2024,100.0,Income,Investment returns
+17-08-2024,20.0,expense,Bus ticket
+17-08-2024,25.0,Income,Online survey
+18-08-2024,35.0,expense,Restaurant
+18-08-2024,45.0,Income,Selling old electronics
+19-08-2024,15.0,expense,Taxi
+19-08-2024,150.0,Income,Project completion
+20-08-2024,25.0,expense,Bought porkchop
+20-08-2024,60.0,expense,Grocery shopping
+21-08-2024,70.0,Income,Side hustle
+21-08-2024,40.0,expense,Utilities
+22-08-2024,55.0,expense,New book
+22-08-2024,30.0,Income,Freelance job
+23-08-2024,25.0,expense,Coffee shop
+23-08-2024,80.0,Income,Part-time job
+24-08-2024,50.0,expense,Online course
+24-08-2024,75.0,Income,Selling artwork
+25-08-2024,10.0,expense,Transport
+25-08-2024,90.0,Income,Consulting fee
+26-08-2024,60.0,expense,Pet food
+26-08-2024,150.0,Income,Freelance work
+27-08-2024,25.0,expense,Books
+27-08-2024,200.0,Income,Project bonus
+28-08-2024,35.0,expense,Clothing
+28-08-2024,100.0,Income,Stock dividends
+29-08-2024,20.0,expense,Stationery
+29-08-2024,70.0,Income,Tutoring
+30-08-2024,25.0,expense,Gym fee
+30-08-2024,55.0,Income,Freelance graphic design
+31-08-2024,30.0,expense,Fast food
+31-08-2024,60.0,Income,Selling crafts
+01-09-2024,10.0,expense,Coffee
+01-09-2024,40.0,expense,House cleaning
+02-09-2024,90.0,Income,Consulting fee
+02-09-2024,20.0,expense,Snacks
+03-09-2024,25.0,expense,Bought porkchop
+03-09-2024,35.0,Income,Freelance writing
+04-09-2024,10.0,expense,Ice cream
+04-09-2024,75.0,Income,Part-time work
+05-09-2024,50.0,expense,Subscription service
+05-09-2024,100.0,Income,Investment returns
+06-09-2024,20.0,expense,Bus ticket
+06-09-2024,25.0,Income,Online survey
+07-09-2024,35.0,expense,Restaurant
+07-09-2024,45.0,Income,Selling old electronics
+08-09-2024,15.0,expense,Taxi
+08-09-2024,150.0,Income,Project completion
+09-09-2024,25.0,expense,Bought porkchop
+09-09-2024,60.0,expense,Grocery shopping
+10-09-2024,70.0,Income,Side hustle
+10-09-2024,40.0,expense,Utilities
+11-09-2024,55.0,expense,New book
+11-09-2024,30.0,Income,Freelance job
+12-09-2024,25.0,expense,Coffee shop
+12-09-2024,80.0,Income,Part-time job
+13-09-2024,50.0,expense,Online course
+13-09-2024,75.0,Income,Selling artwork
+14-09-2024,10.0,expense,Transport
+14-09-2024,90.0,Income,Consulting fee
+15-09-2024,60.0,expense,Pet food
+15-09-2024,150.0,Income,Freelance work
+16-09-2024,25.0,expense,Books
+16-09-2024,200.0,Income,Project bonus
+17-09-2024,35.0,expense,Clothing
+17-09-2024,100.0,Income,Stock dividends
+18-09-2024,20.0,expense,Stationery
+18-09-2024,70.0,Income,Tutoring
+19-09-2024,25.0,expense,Gym fee
+19-09-2024,55.0,Income,Freelance graphic design
+20-09-2024,30.0,expense,Fast food
+20-09-2024,60.0,Income,Selling crafts
+21-09-2024,10.0,expense,Coffee
+21-09-2024,40.0,expense,House cleaning
+22-09-2024,90.0,Income,Consulting fee
+22-09-2024,20.0,expense,Snacks
+23-09-2024,25.0,expense,Bought porkchop
+23-09-2024,35.0,Income,Freelance writing
+24-09-2024,10.0,expense,Ice cream
+24-09-2024,75.0,Income,Part-time work
+25-09-2024,50.0,expense,Subscription service
+25-09-2024,100.0,Income,Investment returns
+26-09-2024,20.0,expense,Bus ticket
+26-09-2024,25.0,Income,Online survey
+27-09-2024,35.0,expense,Restaurant
+27-09-2024,45.0,Income,Selling old electronics
+28-09-2024,15.0,expense,Taxi
+28-09-2024,150.0,Income,Project completion
+29-09-2024,25.0,expense,Bought porkchop
+29-09-2024,60.0,expense,Grocery shopping
+30-09-2024,70.0,Income,Side hustle
+30-09-2024,40.0,expense,Utilities
